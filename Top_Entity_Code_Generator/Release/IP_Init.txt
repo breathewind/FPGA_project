@@ -1,0 +1,14 @@
+0 System 2 1
+OP_A std_logic_vector(7 downto 0) 0 in
+OP_B std_logic_vector(7 downto 0) 1 in
+OUTPUT std_logic_vector(7 downto 0) 2 out
+0
+1 Reg_8 1 1
+data_in std_logic_vector(7 downto 0) 0 in
+data_out std_logic_vector(7 downto 0) 1 out
+1 2 4
+2 RCA 2 1
+A std_logic_vector(7 downto 0) 0 in
+B std_logic_vector(7 downto 0) 1 in
+OUT std_logic_vector(7 downto 0) 2 out
+3
